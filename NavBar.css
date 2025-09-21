@@ -1,10 +1,10 @@
 html{
     scroll-behavior: smooth;
-    background-color: rgb(161, 216, 238);
 }
 
 body {
     margin: 0px;
+    background-color: skyblue;
 }
 
 header {
@@ -114,4 +114,5 @@ img:hover {
 
 .bottom-bar p{
    margin: 0;
+
 }
